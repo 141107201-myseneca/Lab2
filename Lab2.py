@@ -11,5 +11,16 @@ def sys():
     print('Script: ' + sys.argv[0])
     print(sys.argv)
 
+def helloWorld():
+    print('Hello World')
+
+
+
+
 if '__name__' == '__main__':
     sys()
+    helloWorld()
+
+
+
+
